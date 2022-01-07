@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MarcoLorenzetti
 - 👀 I’m interested in Machine Learning, deep Learning and Creative Coding
-- 🌱 I’m currently studying Machine Learning at Physics of Data in Padova, Italy
+- 🌱 I’m currently studying at Physics of Data in Padova, Italy
 - 📫 How to reach me >> lorenzetti.marco3@gmail.com or marco.lorenzetti.1@studenti.unipd.it
